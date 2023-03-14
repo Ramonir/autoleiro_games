@@ -1,0 +1,48 @@
+﻿[
+    {
+        "desc": "Todos bebem {player}",
+        "lvl": 1,
+        "repeats": 5 
+    },
+    {
+        "desc": "Mulheres bebem {player}",
+        "lvl": 1,
+        "repeats": 5
+    },
+    {
+        "desc": "Homens bebem {player}",
+        "lvl": 1,
+        "repeats": 5
+    },
+    {
+        "desc": "Tapa na cara no da direita",
+        "lvl": 2,
+        "repeats": 1 
+    },
+    {
+        "desc": "Tapa na cara no da esquerda",
+        "lvl": 2,
+        "repeats": 1 
+    },
+    {
+        "desc": "Tapa na propria cara",
+        "lvl": 2,
+        "repeats": 1 
+    },
+    {
+        "desc": "Fica pelado",
+        "lvl": 3,
+        "repeats": 3 
+    },
+    {
+        "desc": "Tira roupa do da direita",
+        "lvl": 3,
+        "repeats": 3 
+    },
+    {
+        "desc": "Tira roupa do da esquerda",
+        "lvl": 3,
+        "repeats": 3, 
+        "secret": true
+    }
+]
