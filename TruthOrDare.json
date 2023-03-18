@@ -1,0 +1,20 @@
+﻿[
+    {
+        "desc": "[DESAFIO] Faça um boquete em um objeto",
+        "lvl": 1,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "[DESAFIO] Deixe {player} te ordenhar como uma vaca",
+        "lvl": 1,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "[DESAFIO] Imite um cachorro",
+        "lvl": 1,
+        "repeats": 1,
+        "secret": true
+    }
+]
