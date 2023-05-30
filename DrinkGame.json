@@ -42,14 +42,8 @@
     },
     {
         "desc": "Você e {player} faz o 4, o primeiro a errar bebe 2 doses",
-        "lvl": 1,
-        "repeats": 2,
-        "secret": true 
-    },
-    {
-        "desc": "Você e {player} faz o 4, o primeiro a errar bebe 2 doses",
         "lvl": 2,
-        "repeats": 1,
+        "repeats": 2,
         "secret": true 
     },
     {
@@ -73,6 +67,12 @@
     {
         "desc": "Quem tiver de roupa íntima {color} não bebe, os outros bebem",
         "lvl": 1,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "Quem tiver de roupa íntima {color} não bebe, os outros bebem",
+        "lvl": 2,
         "repeats": 1,
         "secret": true
     },
@@ -115,7 +115,7 @@
     {
         "desc": "Jogue 'O Stop' com o tema 'Filme/Serie', o último que falar bebe 2 doses",
         "lvl": 2,
-        "repeats": 1,
+        "repeats": 2,
         "secret": true
     },
     {
@@ -127,25 +127,25 @@
     {
         "desc": "Jogue 'O Stop' com o tema 'Minha Sogra É', o último que falar bebe 2 doses",
         "lvl": 2,
-        "repeats": 1,
+        "repeats": 2,
         "secret": true
     },
     {
         "desc": "Jogue 'O Stop' com o tema 'Objeto', o último que falar bebe 2 doses",
         "lvl": 2,
-        "repeats": 1,
+        "repeats": 2,
         "secret": true
     },
     {
         "desc": "Jogue 'O Stop' com o tema 'Fruta', o último que falar bebe 2 doses",
         "lvl": 2,
-        "repeats": 1,
+        "repeats": 2,
         "secret": true
     },
     {
         "desc": "Jogue 'O Stop' com o tema 'CEP', o último que falar bebe 2 doses",
         "lvl": 2,
-        "repeats": 1,
+        "repeats": 2,
         "secret": true
     },
     {
@@ -167,7 +167,7 @@
         "secret": true
     },
     {
-        "desc": "Agora você e {player} são do sexo oposto (a maldição acaba quando for você de novo)",
+        "desc": "Agora você e {player} são do sexo oposto (a maldição acaba quando você jogar de novo)",
         "lvl": 2,
         "repeats": 1,
         "secret": true
@@ -261,7 +261,7 @@
     {
         "desc": "Você e {player} bebem igual recém-casados",
         "lvl": 2,
-        "repeats": 1,
+        "repeats": 2,
         "secret": true
     },
     {
@@ -339,6 +339,11 @@
         "repeats": 1
     },
     {
+        "desc": "Quem ta usando {color} bebe",
+        "lvl": 2,
+        "repeats": 2
+    },
+    {
         "desc": "Quem tem mais chance de ir preso? O mais votado bebe",
         "lvl": 2,
         "repeats": 1,
@@ -397,7 +402,7 @@
         "secret": true
     },
     {
-        "desc": "Quem nunca deu PT toma 2 doses",
+        "desc": "Quem nunca deu PT toma {sort(1-4)} doses",
         "lvl": 1,
         "repeats": 1,
         "secret": true
@@ -495,7 +500,7 @@
     },
     {
         "desc": "Você e {player} bebe",
-        "lvl": 1,
+        "lvl": 2,
         "repeats": 2,
         "secret": true
     },
@@ -542,7 +547,7 @@
         "secret": true
     },
     {
-        "desc": "A partir de agora só pode fazer PERGUNTAS (a maldição acaba quando for você de novo)",
+        "desc": "A partir de agora só pode fazer PERGUNTAS (a maldição acaba quando você jogar de novo)",
         "lvl": 2,
         "repeats": 1,
         "secret": true
@@ -559,7 +564,7 @@
     },
     {
         "desc": "Coloque um cubo de gelo na boca e bebe",
-        "lvl": 1,
+        "lvl": 2,
         "repeats": 1,
         "secret": true
     },
@@ -583,17 +588,17 @@
     {
         "desc": "Olhos abertos! O primeiro a piscar bebe",
         "lvl": 2,
-        "repeats": 1,
+        "repeats": 2,
         "secret": true
     },
     {
-        "desc": "Beba 1 dose e de 3 giros 360 graus",
+        "desc": "Beba 1 dose e de {sort(1-5)} giros 360 graus",
         "lvl": 1,
         "repeats": 1,
         "secret": true
     },
     {
-        "desc": "Beba 1 dose e de 3 giros 360 graus",
+        "desc": "Beba 1 dose e de {sort(1-5)} giros 360 graus",
         "lvl": 2,
         "repeats": 2,
         "secret": true
@@ -907,6 +912,12 @@
         "desc": "Jokenpô com {player}, quem perder bebe",
         "lvl": 2,
         "repeats": 2,
+        "secret": true
+    },
+    {
+        "desc": "Fale um 'Eu nunca' quem já fez bebe",
+        "lvl": 2,
+        "repeats": 3,
         "secret": true
     }
 ]
