@@ -26,7 +26,7 @@
     {
         "desc": "<alpha=#88>[DESAFIO]<alpha=#FF> Faça um boquete em um objeto",
         "lvl": 1,
-        "repeats": 1,
+        "repeats": 2,
         "secret": true
     },
     {
@@ -38,13 +38,13 @@
     {
         "desc": "<alpha=#88>[DESAFIO]<alpha=#FF> Imite um cachorro",
         "lvl": 1,
-        "repeats": 1,
+        "repeats": 2,
         "secret": true
     },
     {
         "desc": "<alpha=#88>[DESAFIO]<alpha=#FF> Faça uma imitação engraçada de alguém na sala",
         "lvl": 1,
-        "repeats": 1,
+        "repeats": 2,
         "secret": true
     },
     {
@@ -104,43 +104,43 @@
     {
         "desc": "<alpha=#88>[VERDADE]<alpha=#FF> Se você pudesse viajar no tempo, qual momento da sua vida você gostaria de reviver?",
         "lvl": 1,
-        "repeats": 1,
+        "repeats": 2,
         "secret": true
     },
     {
         "desc": "<alpha=#88>[DESAFIO]<alpha=#FF> Dance como se ninguém estivesse olhando por um minuto (o jogo continua)",
         "lvl": 1,
-        "repeats": 1,
+        "repeats": 2,
         "secret": true
     },
     {
-        "desc": "<alpha=#88>[DESAFIO]<alpha=#FF> Dance como se fosse um figurante em uma balada de uma novela por um minuto inteiro (o jogo continua)",
+        "desc": "<alpha=#88>[DESAFIO]<alpha=#FF> Dance como se fosse um figurante em uma balada de uma novela por um minuto (o jogo continua)",
         "lvl": 1,
-        "repeats": 1,
+        "repeats": 2,
         "secret": true
     },
     {
         "desc": "<alpha=#88>[DESAFIO]<alpha=#FF> Mande um áudio para um amigo fingindo ser outra pessoa",
         "lvl": 1,
-        "repeats": 1,
+        "repeats": 2,
         "secret": true
     },
     {
         "desc": "<alpha=#88>[DESAFIO]<alpha=#FF> Faça um discurso improvisado defendendo um tema aleatório escolhido pelos outros jogadores",
         "lvl": 1,
-        "repeats": 1,
+        "repeats": 2,
         "secret": true
     },
     {
         "desc": "<alpha=#88>[DESAFIO]<alpha=#FF> Faça uma declaração de amor improvisada para um objeto inanimado",
         "lvl": 1,
-        "repeats": 1,
+        "repeats": 2,
         "secret": true
     },
     {
         "desc": "<alpha=#88>[DESAFIO]<alpha=#FF> Tente equilibrar um objeto na ponta do nariz por pelo menos 10 segundos",
         "lvl": 1,
-        "repeats": 1,
+        "repeats": 3,
         "secret": true
     },
     {
@@ -158,7 +158,7 @@
     {
         "desc": "<alpha=#88>[VERDADE]<alpha=#FF> Você já teve um sonho recorrente? Descreva",
         "lvl": 1,
-        "repeats": 1,
+        "repeats": 2,
         "secret": true
     },
     {
@@ -182,13 +182,13 @@
     {
         "desc": "<alpha=#88>[VERDADE]<alpha=#FF> Qual é o lugar mais bonito que você já visitou?",
         "lvl": 1,
-        "repeats": 1,
+        "repeats": 2,
         "secret": true
     },
     {
         "desc": "<alpha=#88>[VERDADE]<alpha=#FF> Se você pudesse ter um superpoder, qual seria e como você o usaria?",
         "lvl": 1,
-        "repeats": 1,
+        "repeats": 2,
         "secret": true
     },
     {
@@ -210,12 +210,6 @@
         "secret": true
     },
     {
-        "desc": "<alpha=#88>[VERDADE]<alpha=#FF> Qual é o seu maior desejo para o futuro?",
-        "lvl": 1,
-        "repeats": 1,
-        "secret": true
-    },
-    {
         "desc": "<alpha=#88>[DESAFIO]<alpha=#FF> Fale uma frase inteira sem usar a vogal 'a'",
         "lvl": 1,
         "repeats": 1,
@@ -224,37 +218,37 @@
     {
         "desc": "<alpha=#88>[DESAFIO]<alpha=#FF> Faça uma mímica de uma cena de um filme e desafie os outros a adivinharem qual é o filme",
         "lvl": 1,
-        "repeats": 1,
+        "repeats": 3,
         "secret": true
     },
     {
         "desc": "<alpha=#88>[DESAFIO]<alpha=#FF> Faça uma acrobacia simples, como uma cambalhota ou um mortal para trás",
         "lvl": 1,
-        "repeats": 1,
+        "repeats": 3,
         "secret": true
     },
     {
         "desc": "<alpha=#88>[DESAFIO]<alpha=#FF> Faça uma cambalhota",
         "lvl": 1,
-        "repeats": 1,
+        "repeats": 2,
         "secret": true
     },
     {
         "desc": "<alpha=#88>[DESAFIO]<alpha=#FF> Faça {sort(5-15)} abdominais",
         "lvl": 1,
-        "repeats": 1,
+        "repeats": 2,
         "secret": true
     },
     {
         "desc": "<alpha=#88>[DESAFIO]<alpha=#FF> Faça {sort(5-15)} flexões",
         "lvl": 1,
-        "repeats": 1,
+        "repeats": 2,
         "secret": true
     },
     {
         "desc": "<alpha=#88>[DESAFIO]<alpha=#FF> Agora você é uma estátua até jogar novamente",
         "lvl": 1,
-        "repeats": 1,
+        "repeats": 2,
         "secret": true
     },
     {
@@ -266,13 +260,13 @@
     {
         "desc": "<alpha=#88>[DESAFIO]<alpha=#FF> Tente equilibrar um objeto no dorso da mão por pelo menos 20 segundos",
         "lvl": 1,
-        "repeats": 1,
+        "repeats": 2,
         "secret": true
     },
     {
         "desc": "<alpha=#88>[DESAFIO]<alpha=#FF> Tente equilibrar um objeto na cabeça por pelo menos 10 segundos",
         "lvl": 1,
-        "repeats": 1,
+        "repeats": 2,
         "secret": true
     },
     {
@@ -290,13 +284,13 @@
     {
         "desc": "<alpha=#88>[DESAFIO]<alpha=#FF> Não fale nada até jogar novamente",
         "lvl": 1,
-        "repeats": 1,
+        "repeats": 2,
         "secret": true
     },
     {
         "desc": "<alpha=#88>[DESAFIO]<alpha=#FF> Fale 1 verdade e duas mentiras, os outros jogadores tem que descobrir a verdadeira",
         "lvl": 1,
-        "repeats": 1,
+        "repeats": 3,
         "secret": true
     },
     {
@@ -338,13 +332,13 @@
     {
         "desc": "<alpha=#88>[DESAFIO]<alpha=#FF> A partir de agora os jogadores só podem fazer PERGUNTAS por 10 rodadas",
         "lvl": 1,
-        "repeats": 1,
+        "repeats": 2,
         "secret": true
     },
     {
         "desc": "<alpha=#88>[DESAFIO]<alpha=#FF> Coloque um cubo de gelo na boca",
         "lvl": 1,
-        "repeats": 1,
+        "repeats": 2,
         "secret": true
     },
     {
@@ -356,19 +350,19 @@
     {
         "desc": "<alpha=#88>[DESAFIO]<alpha=#FF> [MODO SERINHO] ninguém pode rir por 10 rodadas",
         "lvl": 1,
-        "repeats": 1,
+        "repeats": 2,
         "secret": true
     },
     {
         "desc": "<alpha=#88>[DESAFIO]<alpha=#FF> Escreva uma palavra que os jogadores escolher na sua testa",
         "lvl": 1,
-        "repeats": 1,
+        "repeats": 2,
         "secret": true
     },
     {
         "desc": "<alpha=#88>[DESAFIO]<alpha=#FF> Deixe {player} lamber sua testa",
         "lvl": 1,
-        "repeats": 1,
+        "repeats": 2,
         "secret": true
     },
     {
@@ -380,13 +374,13 @@
     {
         "desc": "<alpha=#88>[DESAFIO]<alpha=#FF> Deixe que os outros jogadores te batizem e molhem sua cabeça",
         "lvl": 1,
-        "repeats": 1,
+        "repeats": 2,
         "secret": true
     },
     {
         "desc": "<alpha=#88>[DESAFIO]<alpha=#FF> Deixe {player} fazer um cotonete molhado em você",
         "lvl": 1,
-        "repeats": 1,
+        "repeats": 2,
         "secret": true
     },
     {
@@ -398,37 +392,37 @@
     {
         "desc": "<alpha=#88>[DESAFIO]<alpha=#FF> Deixe desenharem um bigode de Hitler em você",
         "lvl": 1,
-        "repeats": 1,
+        "repeats": 2,
         "secret": true
     },
     {
         "desc": "<alpha=#88>[DESAFIO]<alpha=#FF> Deixe desenharem uma piroca em você",
         "lvl": 1,
-        "repeats": 1,
+        "repeats": 2,
         "secret": true
     },
     {
         "desc": "<alpha=#88>[DESAFIO]<alpha=#FF> Tente prender a respiração por 1 minuto",
         "lvl": 1,
-        "repeats": 1,
+        "repeats": 2,
         "secret": true
     },
     {
         "desc": "<alpha=#88>[DESAFIO]<alpha=#FF> Deixem fazer um penteado diferente em você",
         "lvl": 1,
-        "repeats": 1,
+        "repeats": 2,
         "secret": true
     },
     {
         "desc": "<alpha=#88>[DESAFIO]<alpha=#FF> Deixem passar batom em você",
         "lvl": 1,
-        "repeats": 1,
+        "repeats": 2,
         "secret": true
     },
     {
         "desc": "<alpha=#88>[DESAFIO]<alpha=#FF> Faça um pix para {player}",
         "lvl": 1,
-        "repeats": 1,
+        "repeats": 2,
         "secret": true
     },
     {
@@ -474,12 +468,6 @@
         "secret": true
     },
     {
-        "desc": "<alpha=#88>[VERDADE]<alpha=#FF> Se você pudesse viver em qualquer lugar do mundo, onde seria e por quê?",
-        "lvl": 1,
-        "repeats": 1,
-        "secret": true
-    },
-    {
         "desc": "<alpha=#88>[VERDADE]<alpha=#FF> Qual é o seu maior segredo sobre sua vida amorosa?",
         "lvl": 1,
         "repeats": 1,
@@ -510,15 +498,9 @@
         "secret": true
     },
     {
-        "desc": "<alpha=#88>[DESAFIO]<alpha=#FF> Faça um animal e os outros jogadores adivinharem qual é",
+        "desc": "<alpha=#88>[DESAFIO]<alpha=#FF> Faça um animal e os outros jogadores tem que divinhar qual é",
         "lvl": 1,
-        "repeats": 1,
-        "secret": true
-    },
-    {
-        "desc": "<alpha=#88>[DESAFIO]<alpha=#FF> Faça um animal e os outros jogadores adivinharem qual é",
-        "lvl": 1,
-        "repeats": 1,
+        "repeats": 2,
         "secret": true
     },
     {
@@ -536,20 +518,37 @@
     {
         "desc": "<alpha=#88>[DESAFIO]<alpha=#FF> Faça uma expressão facial diferente ou engraçada e mantenha-a por 30 segundos",
         "lvl": 1,
-        "repeats": 1,
+        "repeats": 2,
         "secret": true
     },
     {
         "desc": "<alpha=#88>[DESAFIO]<alpha=#FF> Escolha um tema e faça um desenho às cegas e deixe os outros tentar adivinhar",
         "lvl": 1,
-        "repeats": 1,
+        "repeats": 2,
         "secret": true
     },
     {
         "desc": "<alpha=#88>[DESAFIO]<alpha=#FF> Crie uma história improvisada usando {sort(2-5)} palavras escolhidas pelos outros jogadores",
         "lvl": 1,
+        "repeats": 2,
+        "secret": true
+    },
+    {
+        "desc": "<alpha=#88>[VERDADE]<alpha=#FF> Com quem você transaria da roda?",
+        "lvl": 1,
         "repeats": 1,
         "secret": true
+    },
+    {
+        "desc": "<alpha=#88>[DESAFIO]<alpha=#FF> Pergunte para alguém fora do jogo o que é um beijo grego",
+        "lvl": 1,
+        "repeats": 1,
+        "secret": true
+    },
+    {
+        "desc": "<alpha=#88>[DESAFIO]<alpha=#FF> De {sort(2-6)} giros 360 graus",
+        "lvl": 1,
+        "repeats": 3,
+        "secret": true
     }
-    
 ]
